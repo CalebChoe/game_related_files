@@ -1,5 +1,5 @@
 
-
+print("cool code written by Caleb")
 def poison(damage, duration):
     def attack(damage, count):
         if count == duration // 4:
