@@ -2,10 +2,12 @@ import turtle
 import random
 # import keyboard
 
+#hello world
 w = 0
 l = 0
 t = 0
 g = 0
+teswt = 192
 experience = 0
 level = 1
 
